@@ -1,0 +1,3 @@
+Link to see the app: https://comparaclinic.herokuapp.com/
+
+Due to license, the code can not be shared.
